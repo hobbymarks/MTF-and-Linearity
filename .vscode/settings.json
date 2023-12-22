@@ -1,0 +1,34 @@
+{
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        },
+        "editor.defaultFormatter": "ms-python.pylint",
+        "editor.formatOnSave": true
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "editor.fontFamily": "Intel One Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+    "editor.matchBrackets": "always",
+    "editor.rulers": [
+        99,
+        100
+    ],
+    "editor.wordWrap": "on",
+    "notebook.formatOnSave.enabled": true,
+    "notebook.output.fontFamily": "Fira Code Retina",
+    "notebook.output.fontSize": 13,
+    "notebook.output.wordWrap": true,
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontFamily": "Fira Code Retina",
+    "terminal.integrated.fontSize": 13,
+    "workbench.colorCustomizations": {
+        "editorIndentGuide.activeBackground1": "#ff0000",
+        "editorIndentGuide.background1": "#ff00ff"
+    },
+    "workbench.tree.indent": 17
+}
